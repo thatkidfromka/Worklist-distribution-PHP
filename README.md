@@ -8,4 +8,4 @@ The communication between the process engine and the worklist distribution is do
 The tasks are saved in JSON files on the server. These files are created when the process engine calls addtask.php. The UI reads out the content of the JSON's. 
 
 Check out the programm at: https://lehre.bpm.in.tum.de/~ge32ped/exercise04/UI/UI.php
-And have a look inside and see all the availible files including the JSON for data storage. 
+And have a look inside and see all the availible files including the JSON for data storage: https://lehre.bpm.in.tum.de/~ge32ped/exercise04/UI/
